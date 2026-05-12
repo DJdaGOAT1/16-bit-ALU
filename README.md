@@ -83,4 +83,4 @@ The ALU design has been rigorously verified through simulation with an extensive
 
 ## Author
 **Devansh Joshi**  
-GitHub: [@DJdaGOAT1](https://github.com/DJdaGOAT1)
+GitHub: [@devanshjoshi08](https://github.com/devanshjoshi08)
